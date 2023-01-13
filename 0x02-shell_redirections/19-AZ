@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -d replace(A,C) from (Z,e)
+grep -d replace(A&C) from (Z&e)
