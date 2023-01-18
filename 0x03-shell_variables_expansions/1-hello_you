@@ -1,2 +1,2 @@
 #!/bin/bash
-User=linux | echo 'hello user'
+myuser=linux | echo 'hello user'
