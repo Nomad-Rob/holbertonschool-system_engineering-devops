@@ -1,2 +1,2 @@
 #!/bin/bash
-count $path
+ls -lR | grep $path | wc-l
