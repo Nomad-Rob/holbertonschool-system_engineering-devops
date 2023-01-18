@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello user' =OSTYPE "linux"
+User=linux | echo 'hello user'
